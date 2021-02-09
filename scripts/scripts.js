@@ -72,7 +72,7 @@ function shuffle() {
 
 setInterval(() => {
     shuffle();
-}, 5000);
+}, 3000);
 
 const headerButton = document.querySelector('.header__button')
 
